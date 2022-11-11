@@ -8,7 +8,7 @@ export const data=[
         name:"Scorecard",
         image:Scorecard,
         github:"https://github.com/decadevs/live-project-score-card-sq011a-group-2-node_group_2_live_project.git",
-        live:"https://astonishing-souffle-b0fb04.netlify.app/login",
+        live:"https://studperf.netlify.app/",
     },
     {
         id:2,

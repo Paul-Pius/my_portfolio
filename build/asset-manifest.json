@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99a770d2.css",
+    "main.js": "/static/js/main.c4356082.js",
+    "static/media/scorecard.png": "/static/media/scorecard.d494d49c8c20f4014281.png",
+    "static/media/shoppingcart.png": "/static/media/shoppingcart.d5308210462fc1a98303.png",
+    "static/media/ecopal.png": "/static/media/ecopal.5bccb4b156232735a4da.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.99b174d0347a46948190.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/express-js.png": "/static/media/express-js.7ea56344e30f31734e86.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo1.png": "/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/graphql.png": "/static/media/graphql.734d7b77338ec9d482d8.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/flexbox.png": "/static/media/flexbox.7a35b607efbfd12ac837.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.99a770d2.css.map": "/static/css/main.99a770d2.css.map",
+    "main.c4356082.js.map": "/static/js/main.c4356082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a770d2.css",
+    "static/js/main.c4356082.js"
+  ]
+}
