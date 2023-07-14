@@ -1,13 +1,14 @@
 import Shoppingcart from '../assets/projects/shoppingcart.png'
 import Scorecard from '../assets/projects/scorecard.png'
 import Ecopal from '../assets/projects/ecopal.png'
+import Plug from '../assets/projects/plug.png'
 
 export const data=[
     {
         id:1,
         name:"Scorecard",
         image:Scorecard,
-        github:"https://github.com/decadevs/live-project-score-card-sq011a-group-2-node_group_2_live_project.git",
+        github:"#",
         live:"https://studperf.netlify.app/",
     },
     {
@@ -22,8 +23,14 @@ export const data=[
         name:"Ecopal",
         image:Ecopal,
         github:"https://github.com/yopeepp/Ecopal.git",
-        live:"https://ecopal.herokuapp.com",
+        live:"#",
     },
-
+    {
+        id:4,
+        name:"PlugInsure",
+        image:Plug,
+        github:"#",
+        live:"https://plug-frontend.vercel.app/",
+    },
 
 ]

@@ -1,11 +1,12 @@
 import React from 'react';
 
 import HTML from '../assets/html.png';
+import angular_logo from '../assets/angular_logo.png';
 import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
-// import FireBase from '../assets/firebase.png';
+import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
@@ -21,7 +22,7 @@ const Skills = () => {
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
-              <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>Skills</p>
+              <p className='text-4xl font-bold inline border-b-4 border-pink-600 sm:mt-32'>Skills</p>
               <p className='py-4'>// These are the technologies I've worked with</p>
           </div>
 
@@ -78,10 +79,14 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={FlexBox} alt="HTML icon" />
                   <p className='my-4'>FlexBox</p>
               </div>
-              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={FireBase} alt="HTML icon" />
                   <p className='my-4'>FIREBASE</p>
-              </div> */}
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={angular_logo} alt="HTML icon" />
+                  <p className='my-4'>Angular</p>
+              </div>
           </div>
       </div>
     </div>
